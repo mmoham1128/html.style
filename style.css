@@ -1,0 +1,22 @@
+*{
+    margin: 50px;
+    padding: auto;
+}
+P{
+    display: block;
+    color:rgb(255, 225, 196);
+    background-color: rgb(231,188, 188);
+    padding: 20px;
+}
+p2{
+    display: block;
+    color:rgb(227, 30, 221);
+    background-color:rgb(231, 188, 188);
+    padding: 20px;
+}
+p3{
+    display: block;
+    color:rgb(19, 19, 238);
+    background-color: rgb(231, 188, 188);
+    padding: 20px;
+}
